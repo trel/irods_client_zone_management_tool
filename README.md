@@ -54,13 +54,13 @@ REACT_APP_PRIMARY_COLOR=#04bdaf
 
 ## Run
 
-#### Start Service
+### Start Service
 
 ```
 docker-compose up
 ```
 
-#### Stop Service
+### Stop Service
 
 ```
 docker-compose down
