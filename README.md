@@ -14,7 +14,7 @@ You will need the hostname and port of this service for the `REACT_APP_REST_API_
 
 You will need the Docker engine and Docker Compose to launch the ZMT.
 
-## Installation & Run
+## Configure
 
 ### 1. Clone the repository from GitHub
 
@@ -52,7 +52,7 @@ REACT_APP_BRANDING_NAME=Zone Management Tool
 REACT_APP_PRIMARY_COLOR=#04bdaf
 ```
 
-### 5. Deploy the ZMT
+## Run
 
 #### Start Service
 
