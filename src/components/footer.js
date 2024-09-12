@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from '../img/iRODS-logo.png';
-import { version } from '../../package.json';
+import version from '../../package.json';
 
 export const Footer = () => {
 

@@ -1,5 +1,5 @@
 import axios from 'axios'
-import { version } from '../../../../package.json'
+import version from '../../../../package.json'
 
 export default {
     name: "ZMT is running the latest version",
