@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Collapse from '@material-ui/core/Collapse';
-import { useSpring, animated } from 'react-spring/web.cjs'; // web.cjs is required for IE 11 support
+import { useSpring, animated } from 'react-spring'; // web.cjs is required for IE 11 support
 
 export const TransitionComponent = (props) => {
     const style = useSpring({

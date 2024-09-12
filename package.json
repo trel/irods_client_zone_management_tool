@@ -10,11 +10,11 @@
     "axios": "^1.7.7",
     "cors": "^2.8.5",
     "install": "^0.13.0",
-    "npm": "^8.19.4",
+    "npm": "^10.8.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-router-dom": "^5.3.4",
-    "react-scripts": "4.0.3",
+    "react-scripts": "5.0.1",
     "react-spring": "^9.7.4",
     "sql-formatter": "^4.0.2",
     "timeago-react": "^3.0.6"
